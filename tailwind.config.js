@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./MengelolaUser.html" , "./MengelolaProduk.html"],
+  content: ["./MengelolaUser.html" , "./MengelolaProduk.html", "./addDataProduct.html", "./editDataProduct.html"],
   theme: {
     extend: {},
     fontFamily: {
